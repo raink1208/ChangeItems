@@ -1,0 +1,9 @@
+name: ChangeItems
+version: @version@
+main: com.github.rain1208.changeitems.ChangeItems
+api-version: 1.16
+
+commands:
+  start:
+    description: ""
+    permission: op
