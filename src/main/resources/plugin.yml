@@ -7,3 +7,6 @@ commands:
   start:
     description: ""
     permission: op
+  change:
+    description: ""
+    permission: op
